@@ -1,0 +1,33 @@
+----------------------theme -------------------------------------
+import { useModalContext } from '../../context/modal-context';
+  const { showModalHandler } = useModalContext();        
+<button id='theme__icon' onClick={showModalHandler}>
+          <IoIosColorPalette />
+        </button>
+
+- theme button
+
+css: 
+#theme__icon {
+  background: transparent;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+-------------------------pictures--------------------------------
+https://pixahive.com/photo/man-working-out-in-a-gym-with-a-mask-on/
+https://www.pexels.com/photo/a-woman-working-out-8038565/
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fprod-ne-cdn-media.puregym.com%2Fmedia%2F810213%2Fbodyweight.jpg%3Fquality%3D80%26width%3D992&imgrefurl=https%3A%2F%2Fwww.puregym.com%2Fblog%2Ffull-body-bodyweight-exercises-and-workouts%2F&tbnid=5t_21-o5ORnCKM&vet=12ahUKEwib3uWX9dz9AhVFQaQEHWbHBAcQMyhQegUIARCsAQ..i&docid=qcuqSfa-lJ1goM&w=992&h=593&q=bodyweight%20workout&hl=en&ved=2ahUKEwib3uWX9dz9AhVFQaQEHWbHBAcQMyhQegUIARCsAQ
+https://www.menshealth.com/uk/building-muscle/a756325/10-best-bodyweight-exercises-for-men/
+https://www.muscleandstrength.com/articles/the-great-abs-mistake-crunches-situps-still-no-abs.html
+https://www.menshealth.com/uk/building-muscle/a748583/dumbbell-bicep-curls/
+https://fitnessvolt.com/leg-press-foot-placements/
+https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout
+https://www.runtastic.com/blog/en/squat-4-common-squat-mistakes-avoid/
+https://www.foodspring.co.uk/magazine/getting-the-most-out-of-bicep-curls
+https://www.shape.com/fitness/tips/how-build-stronger-bigger-butt-glutes
+
+https://www.nerdfitness.com/blog/the-7-best-at-home-workout-routines-the-ultimate-guide-for-training-without-a-gym/
+https://blog.wodify.com/post/the-ultimate-cheat-sheet-on-daily-workout-plans?utm_term=&utm_campaign=Campaign_FF_Search_SKAG_v1_5.4.22&utm_source=adwords&utm_medium=ppc&hsa_acc=3492098324&hsa_cam=17137952088&hsa_grp=141290322476&hsa_ad=621864446856&hsa_src=g&hsa_tgt=dsa-391724590771&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwtsCgBhDEARIsAE7RYh3DOfVCqIwnMsvGJK0jqnxYBclXWfTsHUEMcNoX_eMRF1BAdn6LJnoaAskZEALw_wcB
+https://www.muscleandstrength.com/workouts/8-week-knee-friendly-quad-workout
